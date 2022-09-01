@@ -1,0 +1,39 @@
+@import url(./global.style.css);
+@import url(./normalize.css);
+@import url(./introduction/introduction.css);
+@import url(./nav/nav.css);
+@import url(./section-main1/section-main1.css);
+@import url(./section-main2/section-main2.css);
+@import url(./section-main3/section-main3.css);
+@import url(./sum-up/sum-up.css);
+
+.body {
+  font-family: Roboto, sans-serif;
+  /* width: 1440px; */
+}
+
+.container-1 {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.container-2 {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.indentation {
+  padding-top: 62px;
+}
+
+.title-main {
+  font-weight: 900;
+  font-size: 36px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,27 @@
+.sum-up {
+  background-color: #F1F1F1;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.sum-up__title {
+  font-weight: 700;
+  font-size: 44px;
+  padding-top: 28px;
+  padding-left: 45px;
+}
+
+.sum-up-list {
+  list-style-type: none;
+  padding-left: 45px;
+  margin-bottom: 30px;
+}
+
+.sum-up-list__item:not(:last-child) {
+margin-bottom: 10px;
+}
+
+.sum-up__text {
+  padding-left: 45px;
+  padding-bottom: 27px;
+}

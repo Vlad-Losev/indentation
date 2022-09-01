@@ -1,0 +1,27 @@
+.section-main1 {
+  margin-bottom: 50px;
+}
+
+.section-main1__img1 {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 35px;
+}
+
+.wrapper-main1-img1 {
+  display: flow-root;
+}
+
+.wrapper-main1-img2 {
+  display: flow-root;
+}
+
+.section-main1__text:not(:last-child) {
+  margin-bottom: 30px; 
+}
+
+.section-main1__img2 {
+  float: right;
+  padding-left: 60px;
+}
+

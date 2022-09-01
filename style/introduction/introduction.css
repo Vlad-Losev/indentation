@@ -1,0 +1,14 @@
+.introduction {
+  margin-bottom: 50px;
+}
+
+.introduction__title {
+  font-size: 60px;
+  font-weight: 900;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.introduction__text:not(:last-child) {
+  margin-bottom: 10px;
+}
