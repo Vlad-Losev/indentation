@@ -1,6 +1,8 @@
 .nav {
   background-color: #F1F1F1;
   border-radius: 10px;
+  padding-top: 28px;
+  padding-left: 45px;
   padding-bottom: 10px;
   margin-bottom: 55px;
 }
@@ -8,13 +10,11 @@
 .nav__title {
   font-weight: 700;
   font-size: 44px;
-  padding-top: 28px;
-  padding-left: 45px;
-  padding-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .nav-list {
-  padding-left: 70px;
+  padding-left: 27px;
 }
 
 .nav-list__item {
@@ -22,7 +22,7 @@
 }
 
 .nav-list__item:not(:last-child) {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .nav-link {  
